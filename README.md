@@ -13,3 +13,16 @@ A-cut is the object. B-cut is the matching Chinese character, same position and 
 Pair only matching variation numbers. Keep 1:1 framing. Verify 火 is four strokes (two shoulder ticks + 人-like pair), not 木 / 人 / 大.
 
 Next characters: 山 mountain ridge, 水 valley stream, 木 single tree, 雨 rain streaks.
+
+
+## Pairs
+
+| char | A | B |
+| --- | --- | --- |
+| 火 | huo_A_campfire.jpg | huo_B_character.jpg |
+| 山 | shan_A_peaks.jpg | shan_B_character.jpg |
+| 水 | shui_A_droplets.jpg | shui_B_character.jpg |
+| 木 | mu_A_tree.jpg | (B held back) |
+| 雨 | yu_A_rain.jpg | (B held back) |
+
+木 B and 雨 B were excluded from this push.
